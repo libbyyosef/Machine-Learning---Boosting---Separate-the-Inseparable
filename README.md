@@ -41,3 +41,21 @@ By repeating the analysis for datasets with varying noise levels, the project ga
 Through a comprehensive exploration of Boosting algorithms and regularization parameter selection using cross-validation, this project significantly contributes to the advancement of ensemble learning and model selection techniques in the field of machine learning.
 
 
+![Screenshot 2024-02-01 025239](https://github.com/libbyyosef/Machine-Learning---Boosting---Separate-the-Inseparable/assets/36642026/f11c2a59-df88-48f3-9418-696b1b4acf2a)
+
+
+![Screenshot 2024-02-01 025246](https://github.com/libbyyosef/Machine-Learning---Boosting---Separate-the-Inseparable/assets/36642026/fa6f8d66-f1e1-463e-b7f2-48e588bf3cd5)
+
+
+![Screenshot 2024-02-01 025304](https://github.com/libbyyosef/Machine-Learning---Boosting---Separate-the-Inseparable/assets/36642026/8dea76bb-3b3f-4d0c-908c-6e2a2aee36da)
+
+
+![Screenshot 2024-02-01 025310](https://github.com/libbyyosef/Machine-Learning---Boosting---Separate-the-Inseparable/assets/36642026/7eabdbe8-edd6-4955-a689-1c6d402b9992)
+
+
+![Screenshot 2024-02-01 025317](https://github.com/libbyyosef/Machine-Learning---Boosting---Separate-the-Inseparable/assets/36642026/7f950aa9-7d87-4fae-8c02-58183bd05b28)
+
+
+![Screenshot 2024-02-01 025324](https://github.com/libbyyosef/Machine-Learning---Boosting---Separate-the-Inseparable/assets/36642026/1a51d1da-4ef1-4619-b735-29f8cc6aa7e3)
+
+![Screenshot 2024-02-01 025329](https://github.com/libbyyosef/Machine-Learning---Boosting---Separate-the-Inseparable/assets/36642026/a088a7ef-4392-4d6e-9634-5612ec704eca)
